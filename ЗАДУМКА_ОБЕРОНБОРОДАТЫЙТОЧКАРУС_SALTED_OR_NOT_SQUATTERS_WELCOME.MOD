@@ -1,0 +1,3 @@
+MODULE ЗАДУМКА_ОБЕРОНБОРОДАТЫЙТОЧКАРУС_SALTED_OR_NOT_SQUATTERS_WELCOME
+
+END ЗАДУМКА_ОБЕРОНБОРОДАТЫЙТОЧКАРУС_SALTED_OR_NOT_SQUATTERS_WELCOME.
