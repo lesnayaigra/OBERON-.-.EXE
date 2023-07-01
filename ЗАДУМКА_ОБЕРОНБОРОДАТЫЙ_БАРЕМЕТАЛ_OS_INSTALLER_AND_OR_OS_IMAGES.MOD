@@ -1,0 +1,3 @@
+MODULE ЗАДУМКА_ОБЕРОНБОРОДАТЫЙ_БАРЕМЕТАЛ_OS_INSTALLER_AND_OR_OS_IMAGES
+
+END ЗАДУМКА_ОБЕРОНБОРОДАТЫЙ_БАРЕМЕТАЛ_OS_INSTALLER_AND_OR_OS_IMAGES.
