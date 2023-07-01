@@ -1,1 +1,1 @@
-MODULE ZONEOSCREATOR; (* mauzer нада бы делать ZONE BAREMETAL OS (ZONE OS) и неплохо бы ZONE HARDWARE *) END ZONEOSCREATOR. ОБЕРОНБОРОДАТЫЙ
+MODULE ZONEOSCREATOR; (* mauzer нада бы делать ZONE BAREMETAL OS (ZONE OS) и неплохо бы ZONE HARDWARE *) END ZONEOSCREATOR. ОБЕРОНБОРОДАТЫЙ mauzer добровольный заключённый, без тюрьмы не могу. коренной обитатель тюрьмы
