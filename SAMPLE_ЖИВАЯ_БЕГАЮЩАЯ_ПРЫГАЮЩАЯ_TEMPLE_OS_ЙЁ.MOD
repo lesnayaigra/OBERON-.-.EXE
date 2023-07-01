@@ -1,0 +1,3 @@
+MODULE SAMPLE_ЖИВАЯ_БЕГАЮЩАЯ_ПРЫГАЮЩАЯ_TEMPLE_OS_ЙЁ
+
+END SAMPLE_ЖИВАЯ_БЕГАЮЩАЯ_ПРЫГАЮЩАЯ_TEMPLE_OS_ЙЁ.
