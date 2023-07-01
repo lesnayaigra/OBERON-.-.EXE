@@ -1,6 +1,6 @@
 # OBERON-.-.EXE
 
-https://github.com/lesnayaigra/OBERONRODDOMLAUNCHER.EXE
+https://github.com/lesnayaigra/OBERONBORODATYI.RODDOMLAUNCHER.EXE
 
 OBERONБОРОДАТЫЙ.РОДДОМ.EXE
 
